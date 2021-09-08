@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8" />
+		<title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+		<meta name="description" content="bilibili是国内知名的
+			视频弹幕网站，这里有最及时的动漫新番
+			，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到
+			许多欢乐。" />
+		<meta name="keywords" content="Bilibili,哔哩哔哩,哔哩
+			哔哩动画,哔哩哔哩弹幕网,弹幕视频,B站,弹幕,
+			字幕,AMV,MAD,MTV,ANIME,动漫,动漫音乐,游戏,游戏
+			解说,二次元,游戏视频,ACG,galgame,动画,番组,新番,初音
+			,洛天依,vocaloid,日本动漫,国产动漫,手机游戏,网络游戏,
+			电子竞技,ACG燃曲,ACG神曲,追新番,新番动漫,新番吐槽,巡音,
+			镜音双子,千本樱,初音MIKU,舞蹈MMD,MIKUMIKUDANCE,洛天依
+			原创曲,洛天依翻唱曲,洛天依投食歌,洛天依MMD,vocaloid家族,OST,
+			BGM,动漫歌曲,日本动漫音乐,宫崎骏动漫音乐,动漫音
+			乐推荐,燃系mad,治愈系mad,MAD MOVIE,MAD高燃" />
+		<link rel="stylesheet" href="css/detail-description.css" type="text/css" />
+		<link rel="stylesheet" href="css/main-part.css" type="text/css" />
+	</head>
+
+	<body>
+		<header>
+			<div class="header-Layout">
+				<div class="header-Layout-left">
+					<ul>
+						<li>
+							<a href="https://www.bilibili.com/">主站</a>
+						</li>
+						<li>
+							<a href="https://www.bilibili.com/anime/?spm_id_from=333.851.b_696e7465726e6
+								174696f6e616c486561646572.2" target="_blank">番剧</a>
+						</li>
+						<li>
+							<a href="https://game.bilibili.com/?spm_id_from=333.851.b_696e7465726e61
+								74696f6e616c486561646572.3" target="_blank">游戏中心</a>
+
+						</li>
+						<li>
+							<a href="https://live.bilibili.com/?spm_id_from=555.43.b_696e7465726e6
+								174696f6e616c486561646572.26" target="_blank">直播</a>
+						</li>
+						<li>
+							<a href="https://show.bilibili.com/platform/home.htm
+								l?msource=pc_web&spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.5" target="_blank">会员购</a>
+						</li>
+						<li>
+							<a href="https://manga.bilibili.com/?from=bill_top_mnav&spm_id_from=333.851.b_696e
+								7465726e6174696f6e616c486561646572.6" target="_blank">漫画</a>
+						</li>
+					
+						<li>
+							<a href="https://app.bilibili.com/?spm_id_from=333.851.b_696e7465726e617469
+								6f6e616c486561646572.8" target="_blank">下载APP</a>
+						</li>
+					</ul>
+				</div>
+				<div class="header-Layout-middle">
+					<form action="">
+						<input class="input-11" type="text" name="the-input" value="" placeholder="歪嘴战神在b站恰饭的日子" />
+						<input type="submit" value="" class="submit-11" />
+					</form>
+
+				</div>
+				<div class="header-Layout-right">
+					<ul>
+						<li>
+							
+							<a href=""><img src="img/ada.jpg" /></a>
+						</li>
+						<li>
+							<a href="https://account.bilibili.com/account/big" target="_blank">大会员</a>
+						</li>
+						<li>
+							<a href="https://message.bilibili.com/#/reply" target="_blank">消息</a>
+						</li>
+						<li>
+							<a href="https://t.bilibili.com/?spm_id_from=333.851.b_696e746
+								5726e6174696f6e616c486561646572.11" target="_blank">动态</a>
+						</li>
+						<li>
+							<a href="https://space.bilibili.com/369769759/favlist" target="_blank">收藏</a>
+						</li>
+						<li>
+							<a href="https://www.bilibili.com/account/history" target="_blank">历史</a>
+						</li>
+						<li>
+							<a href="https://member.bilibili.com/v2?spm_id_from=333.851.b_696e74657
+								26e6174696f6e616c486561646572.12#/home" target="_blank">创作中心</a>
+						</li>
+						
+						<button><a href="https://member.bilibili.com/v2#/upload/video/frame">投稿</a></button>
+					</ul>
+				</div>
+			</div>
+
+		</header>
+		<nav>
+			<div class="nav-left">
+				<ul>
+					<li>
+						<a href="https://www.bilibili.com/v/channel/218245?spm_id_from=333.851.b_7072696d61727950616765546162.4&tab=multiple" target="_blank">
+							<div class="navleft-images-D">
+								频道
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.bilibili.com/ranking?spm_id_from=333.851.b_7072696d61727950616765546162.3" target="_blank">
+							<div class="navleft-images-C">
+								排行榜
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="https://t.bilibili.com/?spm_id_from=333.851.b_7072696d61727950616765546162.2" target="_blank">
+							<div class="navleft-images-B">
+								动态
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.bilibili.com/" target="_blank">
+							<div class="navleft-images-A">
+								首页
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="nav-middle">
+				<ul>
+					<li>
+						<a href="https://www.bilibili.com/v/douga/?spm_id_from=333.851.b_7072696d6172794368616e6e656c4d656e75.1" target="_blank">
+							<span>动画</span>
+							<span class="nav-middle-number">999+</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.bilibili.com/v/music/?spm_id_from=333.5.b_7
