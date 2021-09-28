@@ -1,5 +1,8 @@
-package FactoryPattren.tupianduquqi;
+package FactoryPattren.曲线图;
 
-public interface produce {
-    public void Read();
+public class produce implements product{
+    @Override
+    public void draw() {
+        System.out.println("绘制曲线图");
+    }
 }

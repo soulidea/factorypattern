@@ -1,5 +1,5 @@
-package FactoryPattren.tupianduquqi;
+package FactoryPattren.曲线图;
 
 public interface factory {
-    public produce gif();
+    public product drawFactory();
 }
