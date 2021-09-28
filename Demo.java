@@ -1,10 +1,12 @@
-package FactoryPattren.englishe;
+package FactoryPattren.tupianduquqi;
 
 public class Demo {
     public static void main(String[] args) {
-        CompanyFactory cf;
-        CompanyFactory dp;
-        dp= (CompanyFactory) XMLUtil.getBean();
-        dp.factory().get();
+        produce pro;
+        factory fact;
+        fact=new ImageFactory();
+        pro=fact.gif();
+        pro.Read();
+
     }
 }
